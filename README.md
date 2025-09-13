@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jasleen 👨‍💻</h1>
+<h1 align="center">Hi there, I'm Jasleen 👩🏻‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00F5A0&center=true&width=1000&lines=I+turn+ideas+into+code.;Curiosity+drives+me.;Breaking+problems+down+is+my+superpower.;Learning+every+day%2C+building+every+night."/>
